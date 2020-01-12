@@ -1,1 +1,2 @@
-this is my text file for SEV - Aaron Baker
+this is my text file for SEV - Aaron Baker 
+i am editing this txt file to be committed to the new branch - Aaron Baker 5 min later
